@@ -43,7 +43,7 @@
     "array-map": "^0.0.0",
     "array-shuffle": "^1.0.1",
     "autosize": "^3.0.20",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "blueimp-md5": "^2.6.0",
     "china-area-data": "^2.0.0",
     "countup.js": "^1.8.1",
